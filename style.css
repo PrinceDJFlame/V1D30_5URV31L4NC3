@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%
+}
+
+#start, #NUMB3R_0F_0BJ3CT5, #start{
+    font-size: 18px;
+}
+
+#status, #NUMB3R_0F_0BJ3CT5{
+    font-size: 20px;
+}
+
+.C0PY_R1GHT_F00T3R{
+    position: fixed;
+    color: ivory;
+    bottom: 0;
+    width: 100%;
+    background-color: maroon;
+    line-height: 4;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid mintcream;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px black;
+}
